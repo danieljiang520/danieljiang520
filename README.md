@@ -10,3 +10,4 @@ Hey, I am a computer engineering student at the University of Michigan! I enjoy 
   - :rocket: [MRover](https://github.com/umrover/mrover-workspace)
 - 📫 How to reach me: ...
   - through my email danieldj@umich.edu
+  - connect me on [linkedin](https://www.linkedin.com/in/danieljiangdj/)
