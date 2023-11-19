@@ -12,4 +12,4 @@ Hey, I am a Computer Engineering student at the University of Michigan! I enjoy 
 
 - 📫 How to reach me: ...
   - email me via danieldj@umich.edu
-  - connect with me on [linkedin](https://www.linkedin.com/in/danieljiangdj/)
+  - connect me on [linkedin](https://www.linkedin.com/in/danieljiangdj/)
