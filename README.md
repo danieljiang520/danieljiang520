@@ -2,7 +2,7 @@
 
 ![danieljiang520's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=danieljiang520&count_private=true)
 
-Hey, I am a Computer Engineering student at the University of Michigan! I enjoy making Python 3D modeling GUIs and working on robotics.
+Hey, I am a Computer Engineering student at the University of Michigan! I enjoy making 3D modeling GUIs and working on robotic systemes.
 
 - 🔭 Some of the projects I've worked on:
   - :dog: [Simba](https://github.com/danieljiang520/Simba)
