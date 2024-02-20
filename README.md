@@ -14,4 +14,4 @@ As you can guess from my avatar, I love about every activity related to basketba
 - :earth_americas: [UMTRI 3D GUI](https://github.com/danieljiang520/UMTRI_3DGUI) - an expandable GUI framework for 3D mesh visualization and editing
 
 📫 How to reach
-- connect me on [linkedin](https://www.linkedin.com/in/danieljiangdj/)
+- Connect me on [linkedin](https://www.linkedin.com/in/danieljiangdj/)
