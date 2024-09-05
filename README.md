@@ -2,7 +2,7 @@
 
 ![danieljiang520's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=danieljiang520&count_private=true)
 
-Hi, my name is Daniel and I am pursuing an M.S. in Electrical Engineering at Stanford University, expecting to graduate in March 2026. I previously graduated summa cum laude from the University of Michigan with a B.S.E. in Computer Engineering and double minors in Mathematics and Music. I enjoy making 3D modeling GUIs and working on robotics and autonomous systems.
+Hi, my name is Daniel and I am pursuing an M.S. in Electrical Engineering at Stanford University, expecting to graduate in March 2026. I previously graduated from the University of Michigan with a B.S.E. in Computer Engineering and double minors in Mathematics and Music. I enjoy making 3D modeling GUIs and working on robotics and autonomous systems.
 
 #### Something about me
 I love about every activity related to basketball&mdash;playing, watching, and talking about it. I also enjoy playing music, skiing, playing poker, and exploring new cities. I have been an avid car enthusiast for as long as I can remember, and I am interested in enhancing safety and system robustness in complex and autonomous engineering systems.
